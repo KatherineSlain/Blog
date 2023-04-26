@@ -5,8 +5,10 @@ project:
 website:
   title: "Katherine N. Slain, D.O."
   navbar:
+    pinned: true
     right:
-      - about.qmd
+      - text: "About Me"
+      - file: about.qmd
       - icon: github
         href: https://github.com/
       - icon: twitter
