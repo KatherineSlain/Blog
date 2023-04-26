@@ -1,0 +1,16 @@
+---
+title: "A good place to start"
+author: "Katherine N. Slain"
+date: "2023-04-25"
+categories: [statistics]
+---
+
+![](RStudio-Logo-Flat.png)
+
+During clinical training, residents, clinical residents, nursing students, and the like may find themselves faced with the task of completing a research project. Different specialties and sub-specialties have varied requirements for scholarly activity, but often the production of a peer-reviewed abstract or manuscript is expected. Often the curriculum of a clinical training program is insufficient to prepare the trainee for this task.
+
+I learn best by doing, so let's jump right in.
+
+The first step is to install [R](https://cran.r-project.org/) and [RStudio](https://posit.co/products/open-source/rstudio/) onto your computer. R is a programming language used for statistical programming and RStudio is an integrated development environment (IDE) for R. Free versions are available for both, and can be installed on Windows and Mac computers.
+
+You can watch the video to install R {{< video https://youtu.be/C-zzwNe9XHk title="Install R" >}}

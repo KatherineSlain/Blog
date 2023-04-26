@@ -1,0 +1,8 @@
+---
+title: "Katherine N. Slain, D.O."
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
