@@ -1,0 +1,12 @@
+---
+title: "Day 2"
+author: "Katherine N. Slain"
+Date: 2023-26-04
+Categories: [daily]
+---
+
+To Do for this Blog
+1. Higher resolution video
+2. Include local weather in daily posts
+3. Test sound/camera for future posts
+4. how do I link new file with git hub?

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Katherine N. Slain, D.O.",
     "section": "",
-    "text": "A good place to start\n\n\n\n\n\n\n\nstatistics\n\n\n\n\n\n\n\n\n\n\n\nApr 25, 2023\n\n\nKatherine N. Slain\n\n\n\n\n\n\nNo matching items"
+    "text": "Day 2\n\n\n\n\n\n\n\n\n\n\n\n\nKatherine N. Slain\n\n\n\n\n\n\n  \n\n\n\n\nA good place to start\n\n\n\n\n\n\n\nstatistics\n\n\n\n\n\n\n\n\n\n\n\nApr 25, 2023\n\n\nKatherine N. Slain\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -75,5 +75,12 @@
     "title": "A good place to start",
     "section": "",
     "text": "During clinical training, residents, clinical residents, nursing students, and the like may find themselves faced with the task of completing a research project. Different specialties and sub-specialties have varied requirements for scholarly activity, but often the production of a peer-reviewed abstract or manuscript is expected. Often the curriculum of a clinical training program is insufficient to prepare the trainee for this task.\nI learn best by doing, so let’s jump right in.\nThe first step is to install R and RStudio onto your computer. R is a programming language used for statistical programming and RStudio is an integrated development environment (IDE) for R. Free versions are available for both, and can be installed on Windows and Mac computers.\nYou can watch the video to install R"
+  },
+  {
+    "objectID": "posts/2023-26-04/post.html",
+    "href": "posts/2023-26-04/post.html",
+    "title": "Day 2",
+    "section": "",
+    "text": "To Do for this Blog 1. Higher resolution video 2. Include local weather in daily posts 3. Test sound/camera for future posts 4. how do I link new file with git hub?"
   }
 ]
